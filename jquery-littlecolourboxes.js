@@ -1,5 +1,4 @@
 // JavaScript Document
-
 /* This jQuery plugin is released under the following Open Source license: http://www.gnu.org/licenses/gpl-2.0.html
 
 The code has been created by Suburban Glory Web Design: http://www.suburban-glory.com/
@@ -140,10 +139,9 @@ jQuery.fn.colboxes = function ($colour) {
                 });
 
             }
-			
+
             $("#main-photo-undefined").remove();
 
         }); // End of document ready
     } // end if statement for ie6
-
 }
